@@ -1,0 +1,21 @@
+
+
+Enter the string1:
+int i =0;
+Enter the string2:
+int j =3;
+enter string is correct
+enter the line of code
+3
+enter the code of program
+int k=0;
+if(k)
+k=k=1;
+
+
+
+
+
+
+Output:
+the lineif(k)will not be executed since it's a dead code

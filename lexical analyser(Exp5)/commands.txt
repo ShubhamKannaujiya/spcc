@@ -1,0 +1,4 @@
+lex la.l 
+lex.yy.c 
+./a.out 
+
